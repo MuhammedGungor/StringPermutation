@@ -1,0 +1,13 @@
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\bin\Debug\netcoreapp3.1\Loodos.exe
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\bin\Debug\netcoreapp3.1\Loodos.deps.json
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\bin\Debug\netcoreapp3.1\Loodos.runtimeconfig.json
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\bin\Debug\netcoreapp3.1\Loodos.runtimeconfig.dev.json
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\bin\Debug\netcoreapp3.1\Loodos.dll
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\bin\Debug\netcoreapp3.1\Loodos.pdb
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\obj\Debug\netcoreapp3.1\Loodos.csprojAssemblyReference.cache
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\obj\Debug\netcoreapp3.1\Loodos.AssemblyInfoInputs.cache
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\obj\Debug\netcoreapp3.1\Loodos.AssemblyInfo.cs
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\obj\Debug\netcoreapp3.1\Loodos.csproj.CoreCompileInputs.cache
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\obj\Debug\netcoreapp3.1\Loodos.dll
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\obj\Debug\netcoreapp3.1\Loodos.pdb
+C:\Users\Yunuscan\Desktop\LoodosCase\Loodos\Loodos\obj\Debug\netcoreapp3.1\Loodos.genruntimeconfig.cache
